@@ -2,6 +2,8 @@
 
 This repository contains code for the frontend and backend of an eCommerce service.<br />
 
+The frontend was developed in Vue.js and connects to a RESTful API backend developed on Flask and Python.<br />
+
 The website is split into two modules, an Admin module and User module.<br />
 Through the Admin module, curators are able to list/update items and view their sales history. <br />
 The User module is designed for general users who wish to buy or browse through products on the website. <br />
