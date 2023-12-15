@@ -1,0 +1,35 @@
+// @use "sass:map";
+
+// $themes: (
+//     default: (
+//         $primary: #1976D2
+//     ),
+//     another: (
+//         $primary: #1976D2
+//     )
+// );
+
+// @each $theme, $colours in $themes {
+//     [data-theme="#{$theme}"] {
+//         @each $name, $colour in $colours {
+//             .bg-#{$name} {
+//                 background: $colour !important;
+//             }
+//             .text-#{$name} {
+//                 colour: $colour !important;
+//             }
+//         }
+//         .q-field__control, q-item--active {
+//             colour: map.get($colours, primary) !important;
+//         }
+//     }
+// }
+
+// I dont know what im doing. 
+$primary: #ffff99;
+$secondary: #26a69a;
+$error: #c10015;
+$dark: #191919;
+$bright: #ffffff;
+$error: #1976D2;
+$btn-colour: #ffcf33;
