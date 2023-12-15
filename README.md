@@ -1,13 +1,12 @@
 # eCommerce Service Project
 
-A Quasar Framework app
-This project is inspired by the E-commerce project provided by COMP3900.<br />
-Typical E-commerce features are present such as buying/selling items. <br />
+This repository contains code for the frontend and backend of an eCommerce service.<br />
 
 The website is split into two modules, an Admin module and User module.<br />
-The Admin module is able to list/update items and view sales history.<br />
-The User module is for general usage such as buying/browsing. <br />
-This project's novel features include a daily coupon reward system and SM integration. <br />
+Through the Admin module, curators are able to list/update items and view their sales history. <br />
+The User module is designed for general users who wish to buy or browse through products on the website. <br />
+We have fully implemented the PayPal API for the checkout system, using PayPal Sandbox to test its functionality.<br />
+Some miscellaneous features include a daily coupon reward system and social media integration. <br />
 (For the development build, the coupon refresh rate is set to 5 seconds rather than 24 hours. This makes testing and demonstration much easier.)<br />
 <br />
 The following install instructions are optimised for the CSE Linux environment. <br />
